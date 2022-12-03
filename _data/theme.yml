@@ -16,6 +16,11 @@ home-banner-image-position: # Default is center
 carousel-height: 400
 
 ##########
+# ABOUT PAGE
+#
+about-featured-image: coll013
+
+##########
 # ITEM PAGE
 #
 # see _data/metadata-config.csv to define the metadata fields that will display.
