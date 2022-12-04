@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection" %}
 
-{% include feature/item-figure.html objectid="coll010" width="25" %}
+{% include feature/item-figure.html objectid="coll010" %}
 
 ## About the Collection
 
