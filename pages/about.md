@@ -12,8 +12,6 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection" %}
 
-{% include feature/item-figure.html objectid="coll010" %}
-
 ## About the Collection
 
 This collection centers around my (shared) cat, Lucy Dambrosio. Lucy was adopted from the SPCA in December of 2018, and since then she has become a beloved member of the family. We don't know her exact age but based on the estimations of the shelter, she is roughly 8 years old, putting her birthday somewhere around 2014. Lucy has warmed up considerably since we got her, but is still quite edgy and doesn't like to be held or touched unless it's on her own terms. She does, however, have a knack for being photographed and loves to try out various poses and facial expressions for the camera, which loves her.
