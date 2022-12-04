@@ -14,4 +14,4 @@ credits: true
 
 ## About the Collection
 
-This collection 
+This collection centers around my (shared) cat, Lucy Dambrosio. Lucy was adopted from the SPCA in December of 2018, and since then she has become a member of the family. 
